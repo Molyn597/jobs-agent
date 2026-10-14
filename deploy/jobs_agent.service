@@ -1,0 +1,15 @@
+[Unit]
+Description=Jobs.cz AI Agent Telegram Bot
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/jobs_agent
+ExecStart=/home/ubuntu/jobs_agent/.venv/bin/python integrations/telegram_bot.py
+Restart=always
+RestartSec=10
+EnvironmentFile=/home/ubuntu/jobs_agent/.env
+
+[Install]
+WantedBy=multi-user.target

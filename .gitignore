@@ -1,0 +1,27 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Candidate Private Data & Sensitive Documents
+data/*
+!data/.gitkeep
+config/profile.json
+config/search_filter.json
+dashboard.html
+
+# Local Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.log
+
+# Playwright & Browser Sessions
+.playwright/
+test-results/
+
+# OS specific
+.DS_Store
+Thumbs.db

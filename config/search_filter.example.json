@@ -1,0 +1,33 @@
+{
+  "keywords": [
+    "Junior Specialist",
+    "Marketing Coordinator",
+    "Business Analyst",
+    "Projektový asistent",
+    "Data Analyst Trainee"
+  ],
+  "exclude_keywords": [
+    "senior",
+    "lead",
+    "head of",
+    "ředitel",
+    "director",
+    "vedoucí týmu",
+    "architekt"
+  ],
+  "allowed_exceptions": [
+    "podpora manažera",
+    "asistent",
+    "trainee",
+    "junior"
+  ],
+  "min_fit_score_for_digest": 70,
+  "location": "Praha",
+  "employment_types": [
+    "Zkrácený úvazek",
+    "Plný úvazek",
+    "DPP",
+    "DPČ"
+  ],
+  "max_distance_km": 0
+}

@@ -1,0 +1,52 @@
+{
+  "candidate": {
+    "name": "Jan Novák",
+    "email": "your_email@example.com",
+    "phone": "+420 123 456 789",
+    "cv_path": "data/sample_cv.pdf",
+    "certificate_c1_path": "data/sample_certificate.pdf",
+    "education": {
+      "current": "Vysokoškolské studium (navazující magisterské studium)",
+      "bachelor": "Vysokoškolské vzdělání (Bc.)",
+      "erasmus": "Zahraniční studijní pobyt Erasmus (Marketing / Business)"
+    },
+    "work_preferences": {
+      "commitment": ["Zkrácený úvazek", "DPP", "DPČ", "Plný úvazek"],
+      "location": "Praha",
+      "capacity": "cca 20-40 hodin týdně (dle domluvy)"
+    },
+    "skills_and_strengths": {
+      "languages": [
+        "Čeština (rodilý mluvčí)",
+        "Angličtina (C1 - plynulá slovem i písmem)",
+        "Němčina (základy)"
+      ],
+      "tools": [
+        "MS Office (pokročilý Excel na denní bázi)",
+        "Power BI",
+        "Canva / Grafické nástroje",
+        "Moderní AI nástroje a automatizace procesů"
+      ],
+      "soft_skills": [
+        "Analytické a logické myšlení",
+        "Samostatnost a spolehlivost",
+        "Týmová komunikace a vystupování",
+        "Proaktivní přístup k řešení problémů"
+      ]
+    },
+    "strategy_by_role": {
+      "marketing_content": {
+        "focus": "Marketing, sociální sítě, tvorba obsahu, koordinace kampaní",
+        "pitch": "Kombinace marketingového vzdělání, citu pro vizuály/obsah a aktivního využívání moderních AI nástrojů pro zefektivnění práce."
+      },
+      "reporting_analytics": {
+        "focus": "Analýza dat, reporting, podpora business analytiků",
+        "pitch": "Silné analytické myšlení, pokročilá práce s Excelem, Power BI a schopnost samostatně pracovat s firemními daty a reporty."
+      },
+      "admin_project_support": {
+        "focus": "Produktová a projektová podpora, asistent týmu",
+        "pitch": "Procesní spolehlivost, administrativní pečlivost, plynulá angličtina a mezinárodní rozhled."
+      }
+    }
+  }
+}
